@@ -21,10 +21,16 @@ module.exports = {
         },
         extend: {
             colors: {
-                primary: '#008334',
-                secondary: '#000000',
-                tertiary: '#f7f7f7',
+                primary: '#8ECAE6',
+                secondary: '#FB8500',
+                tertiary: '#023047',
             },
+            margin: {
+                sitedefault: '6rem',
+            },
+            padding: {
+                sitedefault: '6rem',
+            }
         },
     },
     plugins: [],
